@@ -69,3 +69,5 @@ npm-debug.log
 /node_modules/
 
 *.log
+
+ormconfig.json
